@@ -1,0 +1,16 @@
+{
+    "name": "azbba/aztheme",
+    "autoload": {
+        "psr-4": {
+            "Aztheme\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "azbba",
+            "email": "az34bba@gmail.com"
+        }
+    ],
+    "require": {}
+}
+
