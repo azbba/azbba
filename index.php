@@ -10,6 +10,12 @@
  * @subpackage aztheme
  */
 
+// Do not allow directly accessing this file.
+if (!defined('ABSPATH')) {
+    die('You cannot access to this page directly');
+}
+
+
 get_header();
 ?>
 
